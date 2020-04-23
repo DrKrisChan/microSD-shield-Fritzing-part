@@ -4,13 +4,13 @@
 Frtizing part for the cheap and commonly available MicroSD card holder shield.
 
 
-Image example (made on Fritzing):
+#### Image example (made on Fritzing):
 
 ![microSD shield](KCL_MicroSD.PNG)
 
 
 
-# How to add part:
+### How to add part:
 Open Fritzing then locate the new part under File > Open > KCL_MicroSD.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "KCL microSD shield"
 
 
