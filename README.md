@@ -11,7 +11,7 @@ Image example (made on Fritzing):
 
 
 # How to add part:
-Open Fritzing, under File > Open > KCL_MicroSD.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "KCL microSD shield"
+Open Fritzing then locate the new part under File > Open > KCL_MicroSD.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "KCL microSD shield"
 
 
 # License & Usage
