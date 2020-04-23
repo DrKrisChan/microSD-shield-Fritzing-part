@@ -9,6 +9,11 @@ Image example (made on Fritzing):
 ![microSD shield](KCL_MicroSD.PNG)
 
 
+
+# How to add part:
+Open Fritzing, under File > Open > KCL_MicroSD.fzpz The part will then be added to your parts list (under MINE folder) or you can search for it as "KCL microSD shield"
+
+
 # License & Usage
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/) **- any use of any material here requires attribution and for derivative content to be shared.**
 
