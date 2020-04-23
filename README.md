@@ -2,8 +2,8 @@
 
 # microSD card holder Fritzing part
 Frtizing part for the cheap and commonly available MicroSD card holder shield.
-
-
+Image example:
+![microSD shield](KCL_MicroSD.PNG)
 
 
 # License & Usage
