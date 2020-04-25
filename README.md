@@ -1,7 +1,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # microSD shield Fritzing part
-Frtizing part for the cheap and commonly available MicroSD card holder shield.
+Fritzing part for the cheap and commonly available MicroSD card holder shield.
 
 
 #### Image example (made on Fritzing):
